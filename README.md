@@ -75,4 +75,4 @@ Framework 만들기
 # 4️⃣ 레벨4 (11/26~12/27)	
 
 5주간 프로젝트 진행
-- [개발자 장비 모임](https://github.com/eattogether/hey-together)
+- [같이! 먹자!](https://github.com/eattogether/hey-together)
