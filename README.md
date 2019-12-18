@@ -48,7 +48,7 @@
 
 ### 📝 글쓰기
 
-- 미션 - [나에게 맞는 학습 방법을 찾아서]https://github.com/hyperpace/woowa-writing-1/blob/hyperpace/level_2.writing.md)
+- 미션 - [나에게 맞는 학습 방법을 찾아서](https://github.com/hyperpace/woowa-writing-1/blob/hyperpace/level_2.writing.md)
   
 
 # 3️⃣ 레벨3 (9/17~11/15)
