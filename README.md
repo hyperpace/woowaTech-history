@@ -76,3 +76,8 @@ Framework 만들기
 
 5주간 프로젝트 진행
 - [같이! 먹자!](https://github.com/eattogether/hey-together)
+
+### 📝 글쓰기
+
+- 미션 - [퇴고 및 2기에게 편지](https://github.com/hyperpace/woowa-writing-1/blob/hyperpace/level_4_writing.md)
+
