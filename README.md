@@ -6,7 +6,7 @@
 - [우아한테크코스 정리](https://woowacourse.github.io/)
 
 # 활동
-- [테코톡-트랜잭션 메커니즘 발표](https://youtu.be/ImvYNlF_saE)
+- [테코톡-트랜잭션 메커니즘 발표 Youtube](https://youtu.be/ImvYNlF_saE)
 - TDD, 클린코드에 기반한 자바 프로그래밍
 - SpringBoot, JPA를 활용한 웹 어플리케이션 개발
 - 페어 프로그래밍과 팀 프로젝트 경험
