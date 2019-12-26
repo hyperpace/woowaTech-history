@@ -2,7 +2,10 @@
 
 <img src="http://woowabros.github.io/img/2019-02-08/techcourse_poster.jpeg" alt="우아한테크코스에 대한 이미지 검색결과"  width="40%" height="40%" />
 
+
 - [우아한테크코스 정리](https://woowacourse.github.io/)
+
+# 활동
 - [테코톡-트랜잭션 메커니즘 발표](https://youtu.be/ImvYNlF_saE)
 
 # 프리코스
